@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Jakub Łuczak! <br/><a href="https://github.com/joshmadakor1"
 
 <h2>👨‍💻 Software Development Projekty:</h2>
 
