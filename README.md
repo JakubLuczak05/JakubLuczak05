@@ -5,6 +5,7 @@
 
 - <b>Python</b>
   - [Gra w Wisielca(Gra)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Aplikacja punktu sprzedaży(Aplikacja)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Baze Danych Projekty:</h2>
 
