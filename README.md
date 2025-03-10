@@ -1,4 +1,5 @@
-<h1>Jakub Łuczak <br/><a href="https://github.com/joshmadakor1"
+<h1>Jakub Łuczak <br/><a href=""
+
 
 <h2>👨‍💻 Software Development Projekty:</h2>
 
