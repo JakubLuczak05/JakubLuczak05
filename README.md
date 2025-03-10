@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Web Development Projekty:</h2>
 
-<h2>👨‍💻 Animacja & Grafika Projekty:</h2>
+<h2>👨‍💻 Animacja 2D, 3D & Grafika Projekty:</h2>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
