@@ -1,4 +1,4 @@
-<h1>Jakub Łuczak <br/><a href=""
+<h1>Jakub Łuczak </h1>
 
 
 <h2>👨‍💻 Software Development Projekty:</h2>
