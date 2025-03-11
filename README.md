@@ -1,4 +1,4 @@
-<h1>Jakub Łuczak </h1>
+<h1>Jakub Łuczak Portfolio </h1>
 
 
 <h2>👨‍💻 Software Development Projekty:</h2>
@@ -12,6 +12,16 @@
 <h2>👨‍💻 Web Development Projekty:</h2>
 
 <h2>👨‍💻 Animacja 2D, 3D & Grafika Projekty:</h2>
+
+- <b>Adobe Animate</b>
+  - [Intro dla gry Retro 3D KARNAGE(Gra)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Photoshop</b>
+  - [Logo dla gry Retro 3D KARANGE(Gra)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  
+
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
