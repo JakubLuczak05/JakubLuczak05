@@ -6,7 +6,7 @@
 - <b>Python</b>
   - [Gra w Wisielca(Gra)](https://github.com/JakubLuczak05/Gra-w-Wisielca)
   - [Aplikacja punktu sprzedaży(Aplikacja)](https://github.com/JakubLuczak05/Punkt-Sprzeda-y/blob/main/README.md)
-  - [Zgadywanie liczb(Gra)]()
+  - [Zgadywanie liczb(Gra)](https://github.com/JakubLuczak05/Zgadywanie-liczb)
 
 <h2>👨‍💻 Baze Danych Projekty:</h2>
 
