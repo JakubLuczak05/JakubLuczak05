@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projekty:</h2>
 
 - <b>Python</b>
-  - [Gra w Wisielca(Gra)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Gra w Wisielca(Gra)]()
   - [Aplikacja punktu sprzedaży(Aplikacja)](https://github.com/JakubLuczak05/Punkt-Sprzeda-y/blob/main/README.md)
 
 <h2>👨‍💻 Baze Danych Projekty:</h2>
@@ -14,10 +14,10 @@
 <h2>👨‍💻 Animacja 2D, 3D & Grafika Projekty:</h2>
 
 - <b>Adobe Animate</b>
-  - [Intro dla gry Retro 3D KARNAGE(Gra)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Intro dla gry Retro 3D KARNAGE(Gra)]()
 
 - <b>Photoshop</b>
-  - [Logo dla gry Retro 3D KARANGE(Gra)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Logo dla gry Retro 3D KARANGE(Gra)]()
   
 
 
