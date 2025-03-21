@@ -4,7 +4,7 @@
 <h2>👨‍💻 Software Development Projekty:</h2>
 
 - <b>Python</b>
-  - [Gra w Wisielca(Gra)]()
+  - [Gra w Wisielca(Gra)](https://github.com/JakubLuczak05/Gra-w-Wisielca)
   - [Aplikacja punktu sprzedaży(Aplikacja)](https://github.com/JakubLuczak05/Punkt-Sprzeda-y/blob/main/README.md)
 
 <h2>👨‍💻 Baze Danych Projekty:</h2>
