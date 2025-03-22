@@ -13,7 +13,7 @@
 <h2>👨‍💻 Web Development Projekty:</h2> 
 
 - <b>HTML, CSS, JavaScript</b>
-  - [Helloheni(Strona)](https://github.com/JakubLuczak05/Gra-w-Wisielca)
+  - [Helloheni(Strona)](https://github.com/JakubLuczak05/Helloheni-Strona)
    
 <h2>👨‍💻 Animacja 2D, 3D & Grafika Projekty:</h2>
 
