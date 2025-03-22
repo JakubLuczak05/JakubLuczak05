@@ -30,7 +30,7 @@
   - [Logo dla gry Retro 3D KARANGE(Gra)](https://github.com/JakubLuczak05/Logo-dla-Gry-)
  
 - <b>...</b>
-  - [Model 3D Budynku(Gra)](https://github.com/JakubLuczak05/Logo-dla-Gry-)
+  - [Model 3D Budynku(Gra)](https://github.com/JakubLuczak05/Model3D-Budynku)
   
 
 
