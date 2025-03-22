@@ -10,9 +10,11 @@
 
 <h2>👨‍💻 Baze Danych Projekty:</h2>
 
-<h2>👨‍💻 Web Development Projekty:</h2>
-  - [Gra w Wisielca(Gra)](https://github.com/JakubLuczak05/Gra-w-Wisielca)
+- <b>HTML, CSS, JavaScript
+  - - [Helloheni(Strona)](https://github.com/JakubLuczak05/Gra-w-Wisielca)
 
+<h2>👨‍💻 Web Development Projekty:</h2> 
+   
 <h2>👨‍💻 Animacja 2D, 3D & Grafika Projekty:</h2>
 
 - <b>Adobe Animate</b>
