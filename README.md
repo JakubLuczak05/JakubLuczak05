@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Baze Danych Projekty:</h2>
 
-- <b>HTML, CSS, JavaScript
+- <b>HTML, CSS, JavaScript</b>
   - [Helloheni(Strona)](https://github.com/JakubLuczak05/Gra-w-Wisielca)
 
 <h2>👨‍💻 Web Development Projekty:</h2> 
