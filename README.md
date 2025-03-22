@@ -12,6 +12,9 @@
 
 - <b>Microsoft Access</b>
   - [Baza Danych]()
+ 
+- <b>Microsoft Excel</b>
+  - [Baza Danych]()
 
 <h2>👨‍💻 Web Development Projekty:</h2> 
 
