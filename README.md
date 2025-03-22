@@ -18,7 +18,7 @@
   - [Intro dla gry Retro 3D KARNAGE(Gra)]()
 
 - <b>Photoshop</b>
-  - [Logo dla gry Retro 3D KARANGE(Gra)]()
+  - [Logo dla gry Retro 3D KARANGE(Gra)](https://github.com/JakubLuczak05/Logo-dla-Gry-)
   
 
 
